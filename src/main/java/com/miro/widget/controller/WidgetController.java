@@ -1,4 +1,4 @@
-package com.miro.widget.integration;
+package com.miro.widget.controller;
 
 import java.net.URI;
 import java.util.Collection;
